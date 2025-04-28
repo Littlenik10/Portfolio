@@ -1,32 +1,10 @@
 # Superstore-Giant’s-Sales-Analysis 
 
 ### Dashboard Link
-[Insert your Power BI report link here]
+https://app.powerbi.com/reportEmbed?reportId=6ea21b64-1592-46b0-9341-ae1976c2f6b8
 
 ### Problem Statement
 This dashboard helps the retail and wholesale teams of Superstore Giant to better understand sales trends, product performance, and customer behavior.  
-It provides year-over-year (YoY) sales insights, identifies seasonal trends, highlights the most profitable and best-selling products, and evaluates customer loyalty.  
-Using these insights, the company can improve inventory planning, target marketing efforts, and enhance customer retention strategies.
-
-For example, by observing strong seasonal patterns, Superstore Giant can prepare stock for peak sales periods.  
-By identifying top customers and regions with growth potential, they can optimize marketing campaigns and drive business expansion.
-
-### Steps Followed
-- Step 1: Loaded the dataset into Power BI Desktop (source: Superstore Giant CSV file).
-- Step 2: Cleaned the data in Power Query Editor — checked column distribution, column quality, and column profiling across the full dataset.
-- Step 3: Verified data consistency in key fields like Sales, Profit, Order ID, Customer Name, State, Category, and Sub-Category.
-- Step 4: Built data model relationships between Customer, Product, and Location fields.
-- Step 5: Created new calculated fields using DAX:
-  - YoY Sales Growth %
-  - Average Sales per Order
-  - Customer Classification (New vs Repeat Customers)
-- Step 6: Designed separate pages for:
-  - Sales Report
-  - Product Performance Report
-  - Customer Insights Report
-- Step 7: Added dynamic slicers for filtering by Year, Segment, State, and Category.
-- Step 8: Applied themes and consistent color schemes for clean and professional dashboard styling.
-- Step 9: Published the dashboard to Power BI Service for sharing and interaction.
 
 ### Key Dashboard Features
 
@@ -63,12 +41,12 @@ By identifying top customers and regions with growth potential, they can optimiz
 
 ### Tools and Technologies Used
 - Power BI Desktop
-- Power BI Service
 - Power Query Editor
 - DAX (Data Analysis Expressions)
 
 ### Report Snapshots
-*(Insert dashboard screenshots here — optional)*
+![image](https://github.com/user-attachments/assets/e0f5e57e-bca4-4f06-bef2-9b6bcef14d68)
+
 
 ### Conclusion
 A three-page dynamic Power BI report was created covering Sales Performance, Product Insights, and Customer Behavior.  
