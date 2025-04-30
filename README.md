@@ -12,17 +12,25 @@ This dashboard helps the retail and wholesale teams of Superstore Giant to bette
 - Year-over-Year (YoY) Sales and Profit Growth
 - Quarterly Sales Comparison
 - Regional Sales Distribution by State
+![image](https://github.com/user-attachments/assets/608fa631-7189-4587-8d59-ba82e81f352c)
+
 
 #### Product Performance Report
 - Top 5 Best-Selling Products
 - Top 5 Most Profitable Products
 - Sales and Quantity Trends by Category and Sub-Category
+![image](https://github.com/user-attachments/assets/a5f73ce4-47b9-49cf-ad4a-9d6934107404)
+
 
 #### Customer Insights Report
 - Number of New vs Repeat Customers
 - Top 10 Customers by Sales
 - Customer Segmentation by Segment (Consumer, Corporate, Home Office)
 - Sales Heatmap by State
+![image](https://github.com/user-attachments/assets/24fa708b-2d03-4137-8f14-63245fe076a6)
+
+#### Product detail (Additional)
+![image](https://github.com/user-attachments/assets/e56d093c-7232-4e76-8553-1a2b7e7322cf)
 
 ### Insights
 
